@@ -24,7 +24,7 @@ module.exports = {
       .addField("MEME","Antijoke・AskTrump・Aww・BlackTwitter・Cats・Comic・DankRate・Dogs・FacePlam・HowSmart・Joke・Meme・Rabbit・RedPandas",false)
       .addField("Economy","Bal・Beg・Daily・Deposit・Pay・Rob・Roullete・WithDraw・Work",false)
       .addField("BotInfo","Invite・Ping・Stats",false)
-       
+       //Made the help command better? Open a pull request
       .addField("To know about a command","Use ?help (Commandname)")
      
      
