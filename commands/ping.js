@@ -18,7 +18,9 @@ module.exports = {
           )}ms\nAPI Latency is ${Math.round(bot.ws.ping)}ms`
         )
         .setColor("RANDOM")
-        
+
+        .addField("This bot is an open source bot made by ItzSoul#0001","Source code at [GitHub](https://github.com/Soulwastaken/ScarXbot)") 
+//You are not allowed to remove the credit
       msg.edit(_);
       msg.edit("\u200B");
     });
