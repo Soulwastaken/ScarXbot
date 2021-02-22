@@ -26,7 +26,8 @@ totalSeconds %= 3600;
       .addField("Servers" ,`${client.guilds.cache.size}`)
       .addField("Users",` ${client.users.cache.size}`)
       .addField("Uptime" ,`${uptime}`)
-      
+      .addField("This bot is an open source bot made by ItzSoul#0001","Source code at [GitHub](https://github.com/Soulwastaken/ScarXbot)") 
+//You are not allowed to remove the credit
       
 			message.channel.send({ embed: helpEmbed });
 		};
