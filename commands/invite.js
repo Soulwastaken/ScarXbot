@@ -11,7 +11,7 @@ module.exports = {
 	run(client, message, args) {
     let embed = new Discord.MessageEmbed()
 		.setColor('RANDOM')
-		.setTitle(`INVITE for BOT`)
+		.setTitle(`INVITE for BOT`) //Change this to your bots invite and support server link
     embed.addField("Recommended Bot Invite", " [Regular Invite](https://discord.com/api/oauth2/authorize?client_id=746385733891391550&permissions=2147483639&scope=bot)")
 		
     embed.addField("Admin Bot Invite"," [ADMIN INVITE](https://discord.com/api/oauth2/authorize?client_id=746385733891391550&permissions=8&scope=bot)")
