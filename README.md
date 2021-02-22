@@ -17,7 +17,7 @@ ScarXbot is a open source Discord bot coded in JavaScript with [Discord.js](http
 
 
 ## Bot Setup  🔊
-* **Clone the Repo** by typing ``git clone https://github.com/Soulwastaken/ScarXbot`` **
+* **Clone the Repo** by typing ``git clone https://github.com/Soulwastaken/ScarXbot`` 
 
 * **Rename .env.example to .env and edit the file and put your bot's token**
 
