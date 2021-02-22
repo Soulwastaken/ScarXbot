@@ -1,7 +1,7 @@
 const env = require('dotenv')
 
 const fs = require('fs');
-const keep_alive = require('./keep_alive.js')
+
 const Discord = require('discord.js');
 const client = new Discord.Client({
 	disableMentions: 'all',
