@@ -17,7 +17,8 @@ module.exports = {
     embed.addField("Admin Bot Invite"," [ADMIN INVITE](https://discord.com/api/oauth2/authorize?client_id=746385733891391550&permissions=8&scope=bot)")
      .addField("SUPPORT SERVER","[Support Server Link](https://discord.gg/H6yDStu)")
     
-   
+   .addField("This bot is an open source bot made by ItzSoul#0001","Source code at [GitHub](https://github.com/Soulwastaken/ScarXbot)") 
+//You are not allowed to remove the credit
 
 		message.channel.send({ embed });
 	},
