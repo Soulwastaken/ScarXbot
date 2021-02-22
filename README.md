@@ -25,6 +25,9 @@ ScarXbot is a open source Discord bot coded in JavaScript with [Discord.js](http
 
 * **Start** the bot by typing **``node index.js``**
 
+## Contributing
+ * **Want to contribute to the repo? Make a Pull Request. I will not be contributing anything more other than fixing any critical issues**
+ * **This is my old bot **
 ## License ©️
 ScarXbot is licensed under the GPL 3.0 license. See the file `LICENSE` for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
 
