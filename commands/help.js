@@ -26,7 +26,7 @@ module.exports = {
       .addField("BotInfo","Invite・Ping・Stats",false)
        //Made the help command better? Open a pull request
       .addField("To know about a command","Use ?help (Commandname)")
-      .addField("This bot is an open source bot made by ItzSoul#0001","Source code at [GitHub](https://github.com/Soulwastaken/ScarXbot)") 
+      .addField("This bot is an open source bot made by definitelynotsoul#7357","Source code at [GitHub](https://github.com/Soulwastaken/ScarXbot)") 
 //You are not allowed to remove the credit
 			message.channel.send({ embed: helpEmbed });
      
