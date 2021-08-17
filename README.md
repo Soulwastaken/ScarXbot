@@ -1,5 +1,4 @@
 # ScarXbot ✨
-[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 >  A Mulitpurpose Discord Bot
 
 ScarXbot is a open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org).
