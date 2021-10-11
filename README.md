@@ -13,7 +13,7 @@ ScarXbot is a open source Discord bot coded in JavaScript with [Discord.js](http
 - [X] BotInfo
 ## [Invite the Bot](https://discord.com/api/oauth2/authorize?client_id=746385733891391550&permissions=2147483639&scope=bot) (Not in development now )
 
-* **Any Questions/Suggestions/Issues? Make a issue**
+* **Any Questions/~~Suggestions~~/Issues? Make a issue**
 
 
 ## Bot Setup  🔊
